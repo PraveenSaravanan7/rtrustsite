@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.161024f6.chunk.css",
+    "main.js": "/static/js/main.92506878.chunk.js",
+    "main.js.map": "/static/js/main.92506878.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c012fedc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c012fedc.js.map",
+    "static/js/2.2d698886.chunk.js": "/static/js/2.2d698886.chunk.js",
+    "static/js/2.2d698886.chunk.js.map": "/static/js/2.2d698886.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.161024f6.chunk.css.map": "/static/css/main.161024f6.chunk.css.map",
+    "static/js/2.2d698886.chunk.js.LICENSE.txt": "/static/js/2.2d698886.chunk.js.LICENSE.txt",
+    "static/media/bill.2f66a500.svg": "/static/media/bill.2f66a500.svg",
+    "static/media/data-collection.38dca8a8.svg": "/static/media/data-collection.38dca8a8.svg",
+    "static/media/digital-campaign.24dae827.svg": "/static/media/digital-campaign.24dae827.svg",
+    "static/media/family.46fd0937.svg": "/static/media/family.46fd0937.svg",
+    "static/media/groceries.959478da.svg": "/static/media/groceries.959478da.svg",
+    "static/media/heart.556c78a5.png": "/static/media/heart.556c78a5.png",
+    "static/media/heart.97d66899.svg": "/static/media/heart.97d66899.svg",
+    "static/media/house.774c2d14.svg": "/static/media/house.774c2d14.svg",
+    "static/media/like.160f82ba.svg": "/static/media/like.160f82ba.svg",
+    "static/media/logo.08528009.png": "/static/media/logo.08528009.png",
+    "static/media/medicine.1028ee65.svg": "/static/media/medicine.1028ee65.svg",
+    "static/media/mission.e2eb9491.svg": "/static/media/mission.e2eb9491.svg",
+    "static/media/target.1354412b.svg": "/static/media/target.1354412b.svg",
+    "static/media/user.8cab7b59.svg": "/static/media/user.8cab7b59.svg",
+    "static/media/verified.3c082c88.svg": "/static/media/verified.3c082c88.svg",
+    "static/media/visionary.d555db72.svg": "/static/media/visionary.d555db72.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c012fedc.js",
+    "static/js/2.2d698886.chunk.js",
+    "static/css/main.161024f6.chunk.css",
+    "static/js/main.92506878.chunk.js"
+  ]
+}
