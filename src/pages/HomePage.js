@@ -3,15 +3,15 @@ import { Header } from "../components/Header";
 import FeatherIcon from "feather-icons-react";
 import family from "../assets/image/family.svg";
 import groceries from "../assets/image/groceries.svg";
-import house from "../assets/image/house.svg";
 import medicine from "../assets/image/medicine.svg";
 import datacollection from "../assets/image/data-collection.svg";
 import datacampaign from "../assets/image/digital-campaign.svg";
 import heart from "../assets/image/heart.svg";
-import heart_two from "../assets/image/heart.png";
 import like from "../assets/image/like.svg";
 import verified from "../assets/image/verified.svg";
 import bill from "../assets/image/bill.svg";
+import shop from "../assets/image/shop.png";
+import tree from "../assets/image/fruit-tree.png";
 import { Link } from "react-router-dom";
 
 export const HomePage = () => {
@@ -38,8 +38,8 @@ export const HomePage = () => {
             <p className="text-smaller mt-3 text-muted">
               Rahma welfare Charitable trust was started with the idea of
               providing a helping hand to those who need it the most. We strive
-              to provide basic amenities to the poorest of poor, irrespective of
-              caste, culture and race.{" "}
+              to provide basic amenities to the poorest of the poor,
+              irrespective of caste, culture, and race.{" "}
               <Link to={"/aboutus"}>
                 {" "}
                 <span className="text-primary">Know more</span>{" "}
@@ -169,8 +169,15 @@ export const HomePage = () => {
             </div>
             <div className="col-md-6 ">
               <div className="row ">
-                <div className="col-4">
-                  <img src={house} className="img-fluid-icon" />
+                <div className="col-4 text-center">
+                  <img
+                    src={shop}
+                    style={{
+                      height: "100%",
+                      "max-width": "100%",
+                      "max-height": "100px",
+                    }}
+                  />
                 </div>
                 <div className="col-8">
                   <h4>Assistance to set up small scale business.</h4>
@@ -200,8 +207,12 @@ export const HomePage = () => {
               <div className="row ">
                 <div className="col-4 text-center">
                   <img
-                    src={heart_two}
-                    style={{ "max-width": "100%", "max-height": "100px" }}
+                    src={tree}
+                    style={{
+                      height: "100%",
+                      "max-width": "100%",
+                      "max-height": "100px",
+                    }}
                   />
                 </div>
                 <div className="col-8">
