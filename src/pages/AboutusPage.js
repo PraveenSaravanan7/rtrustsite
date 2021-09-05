@@ -24,6 +24,7 @@ export const AboutusPage = () => {
     {
       content:
         "Alhamdulillah, it's a great effort. Many people are benefitted from this Trust by the grace of Allah. May Allah fulfill the needs of those who are needy, Aameen.",
+      name: "Benasir",
     },
     {
       content:
